@@ -4,20 +4,15 @@
 
 📍 Paris, France  ·  Open to work
 
----
-
 ## From QA engineer to product analyst — my story
 
 I spent 6 years in data quality and validation at Fiserv, Accenture, and Tech Mahindra, where I became obsessed with data accuracy. When I joined **Virtuo** in Paris, I saw firsthand how every product decision, every feature built or killed was grounded in data. That curiosity drove me to pursue a **MSc in Data Science & AI Strategy at emlyon business school** (GPA 4.0, just completed). I'm now looking to bring that full arc rigorous data quality instincts + product analytics depth — to a team that cares about business outcomes.
-
----
 
 ## What I do
 
 `A/B testing & experimentation` `KPI definition & dashboards` `Behavioural & funnel analytics`
 `Data quality & anomaly detection` `SQL` `Python` `Power BI` `Looker` `dbt` `BigQuery`
 
----
 
 ## Featured projects
 
@@ -28,8 +23,6 @@ I spent 6 years in data quality and validation at Fiserv, Accenture, and Tech Ma
 | [🚚 Supply Chain Analysis](https://github.com/sheebatheo09/Supply_chain_python) | Operational insights from supply chain data | Python |
 | 🚗 Urban Mobility EDA | Analysed 45K+ rentals · found 85% battery = optimal dispatch threshold | Python, SQL, Tableau |
 | 🏖️ Club Med Retention | 100K+ customer records → retention strategies protecting €37.7M revenue | Python, SQL |
-
----
 
 ## Let's connect
 
