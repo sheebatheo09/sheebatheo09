@@ -4,7 +4,7 @@
 
 📍 Paris, France  ·  Open to work
 
-## From QA engineer to Product Analyst — my story
+## From QA engineer to Product Analyst - My story
 
 I spent 6 years in data quality and validation at Fiserv, Accenture, and Tech Mahindra, where I became obsessed with data accuracy. When I joined **Virtuo** in Paris, I saw firsthand how every product decision, every feature built or killed was grounded in data. That curiosity drove me to pursue a **MSc in Data Science & AI Strategy at emlyon business school** (GPA 4.0, just completed). I'm now looking to bring that full arc rigorous data quality instincts + product analytics depth — to a team that cares about business outcomes.
 
