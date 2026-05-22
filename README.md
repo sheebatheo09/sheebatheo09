@@ -21,7 +21,7 @@ I spent 6 years in data quality and validation at Fiserv, Accenture, and Tech Ma
 | [🏥 Diabetes Readmission ML](https://github.com/sheebatheo09/ML_project) | Predicted 30-day readmissions across 130 US hospitals | Python, Scikit-learn |
 | [📉 Bankruptcy Prediction](https://github.com/sheebatheo09/Rproject_bankruptcy_prediction) | Classification models for company bankruptcy risk | R |
 | [🚚 Supply Chain Analysis](https://github.com/sheebatheo09/Supply_chain_python) | Operational insights from supply chain data | Python |
-| 🚗 Urban Mobility EDA | Analysed 45K+ rentals · found 85% battery = optimal dispatch threshold | Python, SQL, Tableau |
+| [🚗 Urban Mobility EDA](https://github.com/sheebatheo09/urban-mobility-eda)| Analysed 45K+ rentals · found 85% battery = optimal dispatch threshold | Python, SQL, Tableau |
 | 🏖️ Club Med Retention | 100K+ customer records → retention strategies protecting €37.7M revenue | Python, SQL |
 
 ## Let's connect
