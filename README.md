@@ -22,6 +22,7 @@ I spent 6 years in data quality and validation at Fiserv, Accenture, and Tech Ma
 | [📉 Bankruptcy Prediction](https://github.com/sheebatheo09/Rproject_bankruptcy_prediction) | Classification models for company bankruptcy risk | R |
 | [🚚 Supply Chain Analysis](https://github.com/sheebatheo09/Supply_chain_python) | Operational insights from supply chain data | Python |
 | [🚗 Urban Mobility EDA](https://github.com/sheebatheo09/urban-mobility-eda)| Analysed 45K+ rentals · found 85% battery = optimal dispatch threshold | Python, SQL, Tableau |
+| [🚲 Bike Sharing Dashboard](https://github.com/sheebatheo09/bike-sharing-tableau-dashboard) | Interactive Tableau dashboard · 1M+ rentals · casual vs. registered user behaviour across seasons & hours | Tableau |
 | 🏖️ Club Med Retention | 100K+ customer records → retention strategies protecting €37.7M revenue | Python, SQL |
 
 ## Let's connect
